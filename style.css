@@ -1,21 +1,146 @@
 .header{
-    background-color: #CEEDC7;
+
     width: 100%;
     color: #222222;
     padding: 20px 40px;
     text-align: center;
     margin-bottom: 20px;
-    border: 1px solid #f7d3bc;
+   
 
 }
 .course{
     width: 100%;
     color: #262930;
+    text-align: center;
 
-}.Course des{
-    background-color: antiquewhite;
+}.Coursedescription{
+   
+    padding-right: 40px;
+    margin-left: 100px;
+    border: #222222; 
+    text-align: initial;
+    margin-left: 100px;
+    border: 1px solid black;
+    color: #222222;
+    background-color: #A6E4E7;
+    margin-top: 15px;
+    padding: 15px;
+
+    
+
 }.body{
-    background-color: #A1BC98;
+    /* background-color: #A1BC98; */
     font-style: italic;
+
+}
+.Frontend{
+   
+    text-align: initial;
+    margin-left: 100px;
+    border: 1px solid black;
+    color: #222222;
+    background-color: #CEEDC7;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.Backend{
+    text-align: initial;
+    margin-left: 100px;
+    border: 1px solid black;
+    color: #222222;
+    background-color: #5aa9c9;
+    margin-top: 15px;
+    padding: 15px;
+}
+.Database{
+    text-align: initial;
+    margin-left: 100px;
+    border: 1px solid black;
+    color: #222222;
+    background-color: #f08d8d;
+    margin-top: 15px;
+    padding: 15px;
+
+}
+
+ol{
+    padding-left: 15px;
+    
+}
+
+.Programming{
+    text-align: initial;
+    margin-left: 100px;
+    border: 1px solid black;
+    background-color:#C0C0C0 ;
+    margin-top: 15px;
+    padding: 15px;
+
+}
+
+
+.modules{
+    text-align: initial;
+    margin-left: 100px;
+    border:1px solid #222222;
+    background-color:#FDF5E6;
+    margin-top: 15px;
+    padding: 15px;
+
+}
+ul{
+    padding-left: 15px;
+
+}
+
+.Tech{
+    text-align: initial;
+    margin-left: 100px;
+    border:1px solid #222222;
+    background-color:#D1A980;
+    margin-top: 15px;
+    padding: 15px;
+
+
+}
+.learn{
+    text-align: initial;
+    margin-left: 100px;
+    border:1px solid #222222;
+    background-color:#FFF8B0;
+    margin-top: 15px;
+    padding: 15px;
+
+}
+.dev{
+    text-align: initial;
+    margin-left: 100px;
+    border:1px solid #222222;
+    background-color:#F8EADC;
+    margin-top: 15px;
+    padding: 15px;
+
+}
+.eligi{
+    text-align: initial;
+    margin-left: 100px;
+    border:1px solid #222222;
+    background-color:#DED6C1;
+    margin-top: 15px;
+    padding: 15px;
+
+}
+.sche{
+    text-align: center;
+    margin-left: 100px;
+    border:1px solid #222222;
+    background-color:#D6DAC8;
+    margin-top: 15px;
+    padding: 15px;
+
+}
+.hide{
+    text-align: center;
 
 }
